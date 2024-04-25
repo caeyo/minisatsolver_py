@@ -1,0 +1,3 @@
+- Translating formulae
+    - First to CNF
+    - Then CNF to DIMACS-CNF
